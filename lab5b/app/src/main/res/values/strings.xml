@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestaurantList</string>
+    <string name="title_activity_restaurant_map">RestaurantMap</string>
+</resources>
